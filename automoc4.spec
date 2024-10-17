@@ -2,7 +2,7 @@ Name: automoc4
 Summary: Automoc is a development moc auto generator for kde4 development
 Version: 0.9.88
 Release: 15
-Url: http://websvn.kde.org/trunk/kdesupport/automoc
+Url: https://websvn.kde.org/trunk/kdesupport/automoc
 License: GPLv2+
 Group: Development/KDE and Qt
 BuildRoot: %{_tmppath}/%{name}-%{version}-build
