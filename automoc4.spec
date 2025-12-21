@@ -7,6 +7,7 @@ License: GPLv2+
 Group: Development/KDE and Qt
 BuildRoot: %{_tmppath}/%{name}-%{version}-build
 Source0: %{name}-%{version}.tar.bz2
+BuildRequires:	make
 BuildRequires: qt4-devel >= 4.4.0
 BuildRequires: kde4-macros
 Obsoletes: automoc < 0.9.83
